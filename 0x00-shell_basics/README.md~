@@ -1,0 +1,1 @@
+pwd - prints current working directory starting from the root.
